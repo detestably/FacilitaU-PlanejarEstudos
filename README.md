@@ -1,4 +1,4 @@
-# 📚 FacilitaU - Sistema de Notificação de Atividades para Alunos
+# FacilitaU - Sistema de Notificação de Atividades para Alunos
 
 O **FacilitaU** é um sistema simples para notificar alunos sobre atividades e prazos importantes. Ele permite que professores ou administradores adicionem atividades com título, descrição e data de entrega, e os alunos podem visualizá-las em uma interface web.
 
